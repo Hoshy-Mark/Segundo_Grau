@@ -23,4 +23,4 @@ else:
             print(raiz_de_delta)
             x_positivo = (-(b) +(raiz_de_delta)) /  (2 * a)
             x_negativo = (-(b) -(raiz_de_delta)) /  (2 * a)
-            print("Os resultados são:", "Delta Negativo = {:.4f}".format(x_negativo), "Delta Positivo = {:.4f}".format(x_positivo), sep = "\n")             
+            print("Os resultados são:", "Raiz de Delta Negativo = {:.4f}".format(x_negativo), "Raiz de Delta Positivo = {:.4f}".format(x_positivo), sep = "\n")             
